@@ -3,7 +3,7 @@
 - 🎓 2nd-year Computer Science student at **St. Joseph Engineering College**, Mangalore
 - 🏫 Graduating in **2027**
 - 💻 Passionate about programming, tech, and all things computer science
-- 🌱 Currently learning C++, problem-solving, and working on personal projects
+- 🌱 Currently learning C++, C, java, C#, problem-solving, and working on personal projects
 - 🚀 Always looking for opportunities to grow and collaborate
 
 Let's connect and build something amazing!
